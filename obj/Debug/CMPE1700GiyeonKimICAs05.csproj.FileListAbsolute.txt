@@ -1,0 +1,30 @@
+C:\Users\Jenny Kim\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe.config
+C:\Users\Jenny Kim\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Kim\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\Jenny Kim\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\Jenny Kim\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\Jenny Kim\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.pdb
+E:\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe.config
+E:\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe
+E:\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.pdb
+E:\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.csprojResolveAssemblyReference.cache
+E:\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.exe
+E:\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe.config
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\gkim9\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe.config
+C:\Users\gkim9\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\gkim9\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\gkim9\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\gkim9\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\bin\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\gkim9\Desktop\CMPE1700GiyeonKimICAs05\CMPE1700GiyeonKimICAs05\obj\Debug\CMPE1700GiyeonKimICAs05.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKim-JingLi-Lab02-master\bin\Debug\CMPE1700GiyeonKimICAs05.exe.config
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKim-JingLi-Lab02-master\obj\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKim-JingLi-Lab02-master\obj\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKim-JingLi-Lab02-master\bin\Debug\CMPE1700GiyeonKimICAs05.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKim-JingLi-Lab02-master\bin\Debug\CMPE1700GiyeonKimICAs05.pdb
+C:\Users\Jessie\Desktop\programs\CMPE1700\CMPE1700GiyeonKim-JingLi-Lab02-master\obj\Debug\CMPE1700GiyeonKimICAs05.csprojResolveAssemblyReference.cache
